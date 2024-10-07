@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Jixiv" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="colorPrimary">@color/deep_gray</item>
+        <item name="colorPrimaryVariant">@color/deep_gray</item>
+        <item name="colorOnPrimary">@color/deep_gray</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/deep_gray</item>
+    </style>
+</resources>
