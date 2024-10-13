@@ -1,2 +1,2 @@
-# android
-android
+＃安卓
+基于Android 图片分享
